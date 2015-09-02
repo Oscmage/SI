@@ -65,15 +65,15 @@
 
 ## Uppgift 2
 
-a) Hur skapar man en klass?
+#### a) Hur skapar man en klass?
 
-b) Hur skapar man en metod?
+#### b) Hur skapar man en metod?
 
-c) Vad är ett objekt? Beskriv det så bra ni kan i gruppen!
+#### c) Vad är ett objekt? Beskriv det så bra ni kan i gruppen!
 
-d) Vad är skillnaden och likheter mellan en primitiv typ och en klasstyp?
+#### d) Vad är skillnaden och likheter mellan en primitiv typ och en klasstyp?
 
-e) Säg att du vill manipulera en sträng(/String) t.ex. skriva ut den baklänges. Vart någonstans är ett bra ställe att börja leta information på om du inte vet vilka metoder strängar har?
+#### e) Säg att du vill manipulera en sträng(/String) t.ex. skriva ut den baklänges. Vart någonstans är ett bra ställe att börja leta information på om du inte vet vilka metoder strängar har?
 
 ## Uppgift 3
 Fibonaccis talföljd är följande: 0 1 1 2 3 5 8 13 ...
