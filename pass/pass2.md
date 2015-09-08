@@ -15,8 +15,8 @@
 
  c) Försök lista ut när det bäst lämpar sig att använda sig av.
 
-	* primitivatyper(som int)
-	* klasstyper(som Integer)
+ * primitivatyper(som int)
+ * klasstyper(som Integer)
 
 ## 3) Förklara innebörden av följande begrepp:
 
@@ -52,6 +52,7 @@ biljardBoll.setDownInPocket(true);
 biljardBoll.setSpeed(0); 
 System.out.println("The color of the ball is: " + 	biljardBoll.getColor());
 
+```
 ## 6) Vad skrivs ut?
 
 ```
