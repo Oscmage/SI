@@ -77,12 +77,14 @@ public static void main(String [] args){
 	} 
 }
 ```
-## 7) Innan ni börjar med uppgiften fundera/diskutera över följande frågeställningar:
+## 7) Skriv en kodsnutt som tar in input från användaren och sedan skriver ut detta baklänges. Om användaren skriver in "TIXE" (dvs EXIT baklänges) skall programmet stängas ner och sluta fråga användaren för mer inputs. 
+
+Innan ni börjar med uppgiften fundera/diskutera över följande frågeställningar:
 
 1. Vad kan vara bra att tänka på när DU ser större uppgifter?
 2. Dela med er i gruppen hur ni tänker kring problemlösningen och vad ni tror är smartaste sättet att gå tillväga.
 
-Skriv en kodsnutt som tar in input från användaren och sedan skriver ut detta baklänges. Om användaren skriver in "TIXE" (dvs EXIT baklänges) skall programmet stängas ner och sluta fråga användaren för mer inputs.
+
 
 
 
