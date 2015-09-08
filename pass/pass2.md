@@ -2,17 +2,19 @@
 
 ## Välkommen till pass nummer 2!
 
-## 1)Diskutera skillnaden mellan följande två rader:
-int int1 = 1;
-Integer integer1 = new Integer(1);
+## 1) Diskutera skillnaden mellan följande två rader:
+
+	int int1 = 1;
+	Integer integer1 = new Integer(1);
 
 ## 2)
 
-### a)  På vilka olika sätt kan man ändra siffran i int1 respektive i integer1 till värdet 2? 
+ a)  På vilka olika sätt kan man ändra siffran i int1 respektive i integer1 till värdet 2? 
 
-### b) Vad är det som gör att man inte kan göra på samma sätt med int och Integer i uppg a)? 
+ b) Vad är det som gör att man inte kan göra på samma sätt med int och Integer i uppg a)? 
 
-### c) Försök lista ut när det bäst lämpar sig att använda sig av 
+ c) Försök lista ut när det bäst lämpar sig att använda sig av.
+
 	* primitivatyper(som int)
 	* klasstyper(som Integer)
 
