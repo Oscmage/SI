@@ -51,7 +51,6 @@ biljardBoll.setSpeed(10);
 biljardBoll.setDownInPocket(true); 
 biljardBoll.setSpeed(0); 
 System.out.println("The color of the ball is: " + 	biljardBoll.getColor());
-``
 
 ## 6) Vad skrivs ut?
 
