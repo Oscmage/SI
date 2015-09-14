@@ -23,7 +23,6 @@ public class Uppg1 {
 			while (true) {
 				System.out.println("1a");
 			}
-			break;
 		case 'b':
 			int i = 0;
 			while (i < 10) {
