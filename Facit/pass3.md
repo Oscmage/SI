@@ -7,7 +7,7 @@ Testa och kör
 Testa och kör, kom ihåg att du inte bör ha de olika klasserna i samma fil.
 
 ## 3 
-
+```
 public static void main(String [] args){
        char[] roxanna = new char[] {'e','R', 'o', 'x', 'a', 'm', 'n', 'a'};
        char[] styrbjorn = new char[] {'S', 't', 'y', 'r', 'b', 'j', 'o', 'r', 'n'};
@@ -15,6 +15,7 @@ public static void main(String [] args){
 
        System.out.println("" + roxanna[2] + isotop[1] + isotop[5] + roxanna[roxanna.length-1] + styrbjorn[3]);
    }
+```
 
 ## 4
 
