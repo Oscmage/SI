@@ -18,6 +18,7 @@ En metod som kopierar en int­array genom att få en array som
 parameter och returnera en kopia av arrayen.
 
 c)
+
 En metod som skriver över en int­array så att alla dess siffror
 ändras till 0.
 
@@ -65,7 +66,7 @@ public class School {
 	private boolean happyTeachers;
 	private boolean happyStudents;
 
-	public School(int yearCreated,String name,happyTeachers,happyStudents) {
+	public School(int yearCreated,String name,boolean happyTeachers,boolean happyStudents) {
 		this.yearCreated = yearCreated;
 		this.name = name;
 		this.happyTeachers = happyTeachers;
