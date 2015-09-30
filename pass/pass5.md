@@ -139,7 +139,7 @@ Skriv ett testprogram som skapar ett av varje djur och testar dess egenskaper.
 ## 5
 
 Titta på klasserna nedan och notera särskilt orden interface och implements:
-
+```
 public interface IDog { 
 	public String doTrick();
 }
@@ -167,6 +167,8 @@ public class Doge implements IDog{
 		return "Says wow";
 	} 
 }
+```
+
 
 a)
 Vad är ett interface? Diskutera.
