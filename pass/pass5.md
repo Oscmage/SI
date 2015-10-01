@@ -25,7 +25,7 @@ public class Cat {
 	}
 
 	public static int getNbrOfLegs() {
-		return this.nbrOfLegs;
+		return nbrOfLegs;
 	}
 
 	public String getName() {
