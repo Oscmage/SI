@@ -27,15 +27,15 @@ Gör ett program som skapar:
 
 Gör ett program med knappar som väljer att visa flaggorna från föregående uppgifter.
 
-	* Låt knapparna anropa konstruktorerna för era tidigare flaggklasser.
-	* Ändra flaggklasserna till JPanels om de inte redan är det.
+* Låt knapparna anropa konstruktorerna för era tidigare flaggklasser.
+* Ändra flaggklasserna till JPanels om de inte redan är det.
 
 ## 5
 
 Gör en räknare från 0 och uppåt. 
 
-	* Var tionde sekund ska räknaren skriva ut: "TEN!"
-	* Varje minut ska räknaren skriva ut: "MINUTE!"
+* Var tionde sekund ska räknaren skriva ut: "TEN!"
+* Varje minut ska räknaren skriva ut: "MINUTE!"
 
 ## 6
 
