@@ -1,4 +1,4 @@
-# Välkommen till pass 7!
+# Välkommen till pass 6!
 
 ## 1
 Skriv en klass som ritar upp Frankrikes flagga.
